@@ -22,6 +22,6 @@ My project adds some parameter tuning to increase the model's accuracy, as well 
 The data source can be found [here](http://insideairbnb.com/get-the-data.html).
 
 ## Results
-I am writing my result on medium. Links to be updated.
+My result could be found [here](https://medium.com/@leducbao1992/a-quick-look-at-los-angeles-airbnb-data-8937f62dd34) on medium.
 
 [^1]: To be completed
