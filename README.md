@@ -14,6 +14,7 @@ A summary of Tuan's project: When travelling to Victoria, he spared some time to
 Since Victoria is not on my travel bucket list, and LA is, I will use LA's data for my analysis instead.
 
 My project adds some parameter tuning to increase the model's accuracy, as well as answering some more in-depth questions:
+* Which neighbourhood is the most expensive?
 * During which period of the year is the booking price cheapest?
 * Can we predict the price of an existing listing in the future? [^1]
 
